@@ -31,7 +31,7 @@ Welcome to my self-paced 15-day sprint where I’m leveling up in:
 | Day | DSA ✅ | DS ✅ | AI ✅ | Project |
 |-----|--------|--------|--------|---------|
 | 1   | Arrays | Titanic Plot | LangChain Hello LLM | — |
-| 2   | Prefix, Sliding Window | ✅ Already Done | ✅ Flan Chatbot | — |
+| 2   | Prefix, Sliding Window,Hashmap | ✅ Already Done | ✅ Flan Chatbot | — |
 | 3   | TBA | TBA | TBA | — |
 
 ---

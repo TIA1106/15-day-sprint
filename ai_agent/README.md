@@ -50,6 +50,24 @@ You: What is gravity?
 
 ---
 
+# 🤖 Day 3 – AI Agent: Tone-Controlled Chatbot
+
+### ✅ Tech:
+- LangChain + HuggingFacePipeline (GPT-2)
+- PromptTemplate for sarcasm-based tone
+
+### ✅ What it does:
+- Takes user question
+- Responds in sarcastic/rude tone using prompt control
+
+### 🚨 Observations:
+- GPT2 repeated prompt → replaced with DialoGPT
+- Learned limitations of small LLMs
+- Prompt formatting (INST-style) improves results
+
+### 🔁 Next Steps:
+- Add memory, role-based bots, switch to better base models
+
 ## 🔜 Coming Up
 
 - Add memory to chatbot

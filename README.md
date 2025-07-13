@@ -36,13 +36,13 @@ Welcome to my self-paced 15-day sprint where I’m leveling up in:
 
 ---
 
-## 📊 Data Science Projects (Uploaded Earlier)
+| Day | DSA ✅ | DS ✅ | AI ✅ | Project |
+|-----|--------|--------|--------|---------|
+| 1   | Arrays | Titanic Plot | LangChain Hello LLM | — |
+| 2   | Prefix, Sliding Window | ✅ Already Done | Flan Chatbot | — |
+| 3   | Sliding Window | Breast Cancer ML | Sarcastic Chatbot | — |
+| 4   | Advanced Sliding Window | KNN vs Logistic | Study Plan Generator | — |
 
-| Project                        | Description                                | GitHub Link |
-|-------------------------------|--------------------------------------------|-------------|
-| 📊 Mall Customer Segmentation | KMeans, PCA, DBSCAN                        | [View Repo](https://github.com/TIA1106/mall-customer-segmentation) |
-| 🏠 House Price Predictor       | Linear + Polynomial Regression, Streamlit | [View Repo](https://github.com/TIA1106/california-house-price-predictor) |
-| 🚢 Titanic Survival            | Logistic Regression, Random Forest        | [View Repo](https://github.com/TIA1106/titanic-survival-prediction) |
 
 ---
 

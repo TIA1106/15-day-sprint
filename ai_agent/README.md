@@ -65,16 +65,26 @@ You: What is gravity?
 - Learned limitations of small LLMs
 - Prompt formatting (INST-style) improves results
 
-### 🔁 Next Steps:
-- Add memory, role-based bots, switch to better base models
+🧠 Day 4 – Study Plan Generator with Flan-T5
+📁 File: ai_study_planner.py
+🔹 Goal: Use a local HuggingFace model (flan-t5-base) to generate a 15-day study plan for any learning goal without using paid APIs.
+| Feature          | Details                                                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------------------------------- |
+| 🧠 Model Used    | `google/flan-t5-base`                                                                                       |
+| 🔗 Tools         | `transformers`, `LangChain`, `HuggingFacePipeline`                                                          |
+| 🎯 Prompt        | "You are a strict mentor AI. Write a numbered 15-day study plan..."                                         |
+| ✅ Outcome        | User can enter any learning goal (e.g., "learn React in 15 days") and get a clear, actionable day-wise plan |
+| 💡 Prompt Format | Multi-line instructions with bullet formatting + rules                                                      |
+| 🧪 Fixes         | Replaced broken `.run()` with `.invoke()`, ensured correct output formatting                                |
+| 🚫 No APIs       | No OpenAI key needed — everything runs locally using HuggingFace                                            |
 
-## 🔜 Coming Up
+📌 Learnings on Day 4
+🧠 HuggingFace models like Flan-T5 are great for instruction-following
 
-- Add memory to chatbot
-- Enable chaining tools (e.g., file reading or web access)
-- Start integrating LLM into my full-stack app (TiaType)
+⚠️ Prompt formatting matters — multi-line prompts with strict instructions improved reliability
 
----
+🔁 .invoke() is now the standard in LangChain — smoother execution
 
+💻 This task taught how to design prompt-controlled utility agents for real-world productivity tools (like planners)
 **Logged by:** Tia Sukhnanni  
 📅 Sprint Days 1–2 | 💻 JKLU BTech | 🧠 AI + Web + Dev  

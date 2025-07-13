@@ -28,14 +28,6 @@ Welcome to my self-paced 15-day sprint where I’m leveling up in:
 
 ## 🧪 Day-wise Progress
 
-| Day | DSA ✅                                   | DS ✅                             | AI ✅                            | Project    |
-|-----|------------------------------------------|----------------------------------|----------------------------------|------------|
-| 1   | Arrays: Two Sum, Best Time to Buy/Sell   | Titanic EDA + Plotting           | LangChain Hello LLM (OpenAI)     | —          |
-| 2   | Prefix Sum, Sliding Window               | ✅ Already Done                   | Flan-T5 QnA Bot (HuggingFace)    | —          |
-| 3   | Window Substring + Subarray Sum          | Logistic vs KNN (Breast Cancer)  | Sarcastic LLM Chatbot (DialoGPT) | —          |
-
----
-
 | Day | DSA ✅ | DS ✅ | AI ✅ | Project |
 |-----|--------|--------|--------|---------|
 | 1   | Arrays | Titanic Plot | LangChain Hello LLM | — |

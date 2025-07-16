@@ -86,5 +86,41 @@ You: What is gravity?
 🔁 .invoke() is now the standard in LangChain — smoother execution
 
 💻 This task taught how to design prompt-controlled utility agents for real-world productivity tools (like planners)
+
+# 🤖 Agentic AI Assistant – Day 6 Project
+
+An advanced **LangChain-style Agentic AI Assistant** built using Python and Streamlit. It can think, reason, use tools, and respond intelligently to user queries via a chat interface.
+
+---
+
+### ✅ Features
+
+- 📐 Calculator Tool  
+- 🧠 Wikipedia Summary Tool  
+- 🌐 WebSearch (stub for now)  
+- 📄 PDF Summarization Tool  
+- 💬 Chat-based Interface with Memory  
+- 🌗 Light/Dark Mode Toggle  
+- 💾 Save/Load Memory  
+- 📥 Download chat as Markdown / JSON  
+- 🧩 Upload and process files (PDF/Text)
+
+---
+
+### 🧪 Stack
+
+- `Streamlit` for UI  
+- `OpenAI` SDK (supports local base URLs)  
+- `LangChain-like tool loop` logic  
+- `PyPDF2`, `Wikipedia`, `dotenv`
+
+---
+
+### 🚀 How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run ui_app.py
+
 **Logged by:** Tia Sukhnanni  
 📅 Sprint Days 1–2 | 💻 JKLU BTech | 🧠 AI + Web + Dev  

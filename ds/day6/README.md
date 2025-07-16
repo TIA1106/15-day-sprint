@@ -1,43 +1,28 @@
-# 📊 Breast Cancer Classification App
+# 🤖 Day 6 – Agentic AI Assistant (Streamlit + Tools)
 
-This is an interactive Streamlit application for breast cancer diagnosis using four different machine learning models:
+This app is an interactive **Agentic AI assistant** built using `LangChain-style logic`, powered by LLMs with tool use, memory, and a responsive Streamlit UI.
 
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Random Forest
-- Support Vector Machine (SVM)
+### ✅ Features:
 
-The app allows users to:
+- 📐 Calculator Tool  
+- 🧠 Wikipedia Summary Tool  
+- 🌐 Web Search Stub (extendable)  
+- 📄 PDF Summarizer Tool  
+- 🧠 Agent memory + loop with tool usage  
+- 🌓 Dark/Light mode toggle  
+- 💾 Save/Load conversation memory  
+- 📦 Download conversation as Markdown/JSON
 
-✅ Select model from dropdown  
-✅ View accuracy score  
-✅ Visualize confusion matrix  
-✅ See styled classification report  
-✅ Interact with a clean Streamlit UI
-
----
-
-## 📁 Files
-
-- `app.py` – Main Streamlit app
-- `model_utils.py` – Model training and data preprocessing
+### 🧪 Stack:
+- Python + OpenAI SDK
+- Streamlit
+- PyPDF2, Wikipedia API
+- LangChain-like tool loop logic
 
 ---
-## ✅ Features Covered Today
-Classification using sklearn models
 
-Data scaling and preprocessing
-
-Evaluation metrics: Accuracy, Confusion Matrix, Classification Report
-
-Deployed as an interactive app via Streamlit
-
-## 🚀 To Run
+To run:
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
-
-
-
-
+streamlit run ui_app.py

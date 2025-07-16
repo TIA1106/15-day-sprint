@@ -21,7 +21,6 @@ Welcome to my self-paced 15-day sprint where I’m leveling up in:
 | `dsa/`           | Daily LeetCode-style problems & solutions    |
 | `ds/`            | Data Science theory + comparisons            |
 | `ai/`            | LangChain/LLM chatbots & agents              |
-| `sprint-project/`| TiaType Grammar AI tool (48hr solo sprint)   |
 | `posts/`         | Daily logs and reflections                   |
 
 ---
@@ -34,7 +33,9 @@ Welcome to my self-paced 15-day sprint where I’m leveling up in:
 | 2   | Prefix, Sliding Window | ✅ Already Done | Flan Chatbot | — |
 | 3   | Sliding Window | Breast Cancer ML | Sarcastic Chatbot | — |
 | 4   | Advanced Sliding Window | KNN vs Logistic | Study Plan Generator | — |
-
+| 5   | Binary Search 1 | — | TiaType MVP v1 | Sprint Day 1 |
+| 6   | Binary Search 2–3 | Breast Cancer Classifier App (UI) | — | Sprint Day 2 |
+| 7   | — | — | Agentic AI Assistant (Tool-using) | Sprint Day 3 |
 
 ---
 
@@ -43,8 +44,9 @@ Welcome to my self-paced 15-day sprint where I’m leveling up in:
 🛠️ **TiaType – AI-powered grammar improvement tool**
 
 - **Tech:** Next.js, Tailwind, LangChain, HuggingFace
-- **Features:** Grammar correction, export to PDF, real-time AI edits
-- **Status:** MVP ready → polishing and deploying during 48-hr solo sprint
+- **Features:** Grammar correction, export to PDF, tone detection, autosave, etc.
+- **Status:** MVP polished and deployed during 48-hour solo sprint  
+- See: [📄 TiaType Pro Writeup](TiaType.md)
 
 ---
 

@@ -112,16 +112,11 @@ An advanced **LangChain-style Agentic AI Assistant** built using Python and Stre
 - `Streamlit` for UI  
 - `OpenAI` SDK (supports local base URLs)  
 - `LangChain-like tool loop` logic  
-- `PyPDF2`, `Wikipedia`, `dotenv`
+-  `Wikipedia`, `dotenv`
 
 ---
 
-### 🚀 How to Run
 
-```bash
-pip install -r requirements.txt
-streamlit run ui_app.py
----
 # 🤖 Agentic AI Assistant – Day 8 Upgrade
 
 ## ✅ New Feature
@@ -151,8 +146,12 @@ This project does **not** expose any secret key in code.
 - `saved_chat.json`: Loadable memory
 
 ---
+### 🚀 How to Run these
 
-📤 Pushed under `ai/day8_agent_upgrade/`  
+```bash
+pip install -r requirements.txt
+streamlit run ui_app.py
+---
 
 **Logged by:** Tia Sukhnanni  
 📅 Sprint Days 1–2 | 💻 JKLU BTech | 🧠 AI + Web + Dev  

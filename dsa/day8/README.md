@@ -1,9 +1,9 @@
-# 📦 DSA – Day 6
+# 📦 DSA – Day 8
 
 ### ✅ Problems Solved:
-1. [Search](https://leetcode.com/problems/binary-search/description/)
-2. [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
-3. [Koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
+1. [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+2. [Peak element](https://leetcode.com/problems/find-peak-element/)
+3. [Minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 
 ---
 

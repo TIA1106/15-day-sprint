@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 Learnings & Takeaways
--Finding median of two sorted arrays
+- Finding median of two sorted arrays
 - **Binary Search isn’t just about sorted arrays.** It's a versatile tool for problems where the answer lies in a **monotonic search space**.
 - Learned how to shrink search space based on patterns like `nums[mid] > nums[mid+1]` or `nums[mid] > nums[right]`.
 - Realized that:

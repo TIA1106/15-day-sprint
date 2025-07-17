@@ -36,6 +36,7 @@ Welcome to my self-paced 15-day sprint where I’m leveling up in:
 | 5   | Binary Search 1 | — | TiaType MVP v1 | Sprint Day 1 |
 | 6   | Binary Search 2–3 | Breast Cancer Classifier App (UI) | — | Sprint Day 2 |
 | 7   | — | — | Agentic AI Assistant (Tool-using) | Sprint Day 3 |
+| 8   | Binary Search 4–5 + Peak + Min | Compare ML models (LR, KNN, RF, SVM) | Agentic UI Theme & File Tool Upgrade | — |
 
 ---
 

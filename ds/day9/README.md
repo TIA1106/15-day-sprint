@@ -10,6 +10,7 @@
 | Logistic Regression |
 | K-Nearest Neighbors | 
 | Random Forest (best here)      | 
+| SVM|
 
 ✅ Trained and evaluated using `accuracy`, `confusion matrix`, and `classification report`.
 

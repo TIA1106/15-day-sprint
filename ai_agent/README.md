@@ -151,7 +151,14 @@ This project does **not** expose any secret key in code.
 ```bash
 pip install -r requirements.txt
 streamlit run ui_app.py
----
+```
+
+### 🧠 Day 10-11 – 
+# 💬 TiaPrompt — Full-Stack AI Assistant App 
+TiaPrompt is a secure, full-stack AI chatbot built with the **MERN stack** (MongoDB, Express.js, React, Node.js). It supports user authentication using session cookies, has a clean React frontend styled with Tailwind CSS, and connects to Mistral AI via API.
+--- 
+## 🔗 Project Repository 👉 [GitHub – TiaPrompt](https://github.com/TIA1106/TiaPrompt) 
+--- 
 
 **Logged by:** Tia Sukhnanni  
 📅 Sprint Days 1–2 | 💻 JKLU BTech | 🧠 AI + Web + Dev  

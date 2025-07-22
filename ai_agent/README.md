@@ -155,12 +155,13 @@ streamlit run ui_app.py
 
 # 🧠 Day 10-11 – 
 # 💬 TiaPrompt — Full-Stack AI Assistant App 
+---
 TiaPrompt is a secure, full-stack AI chatbot built with the **MERN stack** (MongoDB, Express.js, React, Node.js). It supports user authentication using session cookies, has a clean React frontend styled with Tailwind CSS, and connects to Mistral AI via API.
 --- 
 ## 🔗 Project Repository 👉 [GitHub – TiaPrompt](https://github.com/TIA1106/TiaPrompt) 
 --- 
 # 🤖 Tia's Agentic AI Assistant
-
+---
 A personalized AI chatbot built with **Streamlit**, designed to guide Tia in mastering **DSA**, **Full Stack Development**, and **Data Science**. The assistant adapts based on selected learning mode and gives actionable, focused replies. It also supports chat history persistence.
 ---
 ## 🔗 Project Repository 👉 [GitHub – tia-agentic-ai](https://github.com/TIA1106/tia-agentic-ai-assistant) 

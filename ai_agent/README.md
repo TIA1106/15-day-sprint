@@ -159,6 +159,12 @@ TiaPrompt is a secure, full-stack AI chatbot built with the **MERN stack** (Mong
 --- 
 ## 🔗 Project Repository 👉 [GitHub – TiaPrompt](https://github.com/TIA1106/TiaPrompt) 
 --- 
+# 🤖 Tia's Agentic AI Assistant
+
+A personalized AI chatbot built with **Streamlit**, designed to guide Tia in mastering **DSA**, **Full Stack Development**, and **Data Science**. The assistant adapts based on selected learning mode and gives actionable, focused replies. It also supports chat history persistence.
+---
+## 🔗 Project Repository 👉 [GitHub – tia-agentic-ai](https://github.com/TIA1106/tia-agentic-ai-assistant) 
+---
 
 **Logged by:** Tia Sukhnanni  
 📅 Sprint Days 1–2 | 💻 JKLU BTech | 🧠 AI + Web + Dev  

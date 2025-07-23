@@ -21,11 +21,18 @@ We use the built-in `load_wine()` dataset from `sklearn.datasets`, which contain
 
 ---
 
-## 🚀 How to Run
+🧠 Features
+Trains and evaluates 6 classifiers:
 
-### 1. Clone the Repository
+Logistic Regression
+KNN
+Random Forest
+SVM
+Naive Bayes
+Decision Tree
+Displays accuracy scores for all models.
+Offers a custom input form where you can enter feature values and predict wine class.
 
-```bash
-git clone https://github.com/yourusername/wine-classification-app.git
-cd wine-classification-app
-```
+---
+✍️ Author
+Tia Sukhnanni 
